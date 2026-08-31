@@ -41,7 +41,6 @@ print(a, b)
 
 # 실수의 오차
 print(0.1 + 0.2 == 0.3)
-print(0.1 + 0.2 == 0.3)
 print(f"{0.1:.20f}")
 print(f"{0.2:.20f}")
 print(f"{0.3:.20f}")
@@ -51,3 +50,4 @@ print(float(10))
 print(int(3.14))
 print(int("100"))
 print(float("3.14"))
+print(str(10))
